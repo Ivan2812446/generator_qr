@@ -100,7 +100,7 @@ python main.py
 **Иван Сергеев / Ivan Sergeev**
 
 - 💼 **GitHub:** [Ivan2812446](https://github.com/Ivan2812446)
-- 📝 **Telegram:** [@Ivans_Tech_Notes](https://t.me/Ivans_Tech_Notes)
+- 📝 **Telegram:** [Ivans_Tech_Notes](https://t.me/Ivans_Tech_Notes)
 - 💰 **Kwork:** [Sergeev_Ivan](https://kwork.ru/user/Sergeev_Ivan)
 
 ---
