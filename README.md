@@ -1,48 +1,129 @@
-# Генератор QR-кодов / QR Code Generator
-Многофункциональное приложение для генерации QR-кодов с красивым графическим интерфейсом.
-A multifunctional QR code generator application with a beautiful graphical interface.
+# 🎯 Генератор QR-кодов / QR Code Generator
 
-Cоцсети автора:
-GitHub - Ivan2812446
-TG - t.me/Ivans_Tech_Notes
-Kwork - Sergeev_Ivan
+**Многофункциональное приложение для генерации QR-кодов с интуитивно понятным графическим интерфейсом**  
+**A multifunctional QR code generator application with an intuitive graphical interface**
 
-## 🌟 Особенности / Features
+---
 
-- **📱 Многотипная генерация** - Текст, Wi-Fi, визитки, телефон, email
-- **🎨 Кастомизация** - Настройка цветов, добавление логотипа
-- **🌍 Поддержка языков** - Русский и английский интерфейс
-- **💾 Сохранение** - Экспорт QR-кодов в PNG/JPEG
-- **👀 Предпросмотр** - Мгновенный просмотр результата
-- **🚀 Простая установка** - Установщик или portable версия
+## ✨ Возможности / Features
 
-- **📱 Multi-type generation** - Text, Wi-Fi, business cards, phone, email
-- **🎨 Customization** - Color settings, logo addition
-- **🌍 Language support** - Russian and English interface
-- **💾 Save functionality** - Export QR codes to PNG/JPEG
-- **👀 Preview** - Instant result preview
-- **🚀 Easy installation** - Installer or portable version
+### 🎨 Гибкая генерация
+**Русский:**
+- 📝 Текст - Любой текст или ссылки
+- 📶 Wi-Fi - Автоматическое подключение к сетям
+- 👤 Визитки - Контактная информация (vCard)
+- 📞 Телефон - Быстрый набор номера
+- 📧 Email - Создание писем с предзаполненными данными
 
+**English:**
+- 📝 Text - Any text or links
+- 📶 Wi-Fi - Automatic network connection
+- 👤 Business cards - Contact information (vCard)
+- 📞 Phone - Quick dial number
+- 📧 Email - Create emails with pre-filled data
 
+### 💅 Кастомизация
+**Русский:**
+- 🎨 Настройка цветов (основной, фоновый)
+- 🖼️ Добавление логотипа в центр QR-кода
+- 📏 Настройка размера и качества
+- 👀 Предпросмотр в реальном времени
+
+**English:**
+- 🎨 Color settings (primary, background)
+- 🖼️ Add logo to QR code center
+- 📏 Size and quality settings
+- 👀 Real-time preview
+
+### 🌍 Интернационализация
+**Русский:**
+- 🇷🇺 Русский интерфейс
+- 🔤 Поддержка кириллицы и латиницы
+
+**English:**
+- 🇺🇸 English interface
+- 🔤 Cyrillic and Latin support
+
+### 💾 Экспорт
+**Русский:**
+- 📁 Сохранение в PNG (прозрачный фон)
+- 📁 Сохранение в JPEG
+- 🖨️ Поддержка высоких разрешений
+
+**English:**
+- 📁 Save as PNG (transparent background)
+- 📁 Save as JPEG
+- 🖨️ High resolution support
+
+---
 
 ## 🚀 Установка / Installation
 
-#### Windows (1 способ/1 method)
-1. Скачайте `QRGeneratorInstaller.exe`
+### 📥 Способ 1: Установщик (рекомендуется) / Method 1: Installer (recommended)
+
+**Русский:**
+1. Скачайте `QRGeneratorInstaller.exe` из раздела Releases
 2. Запустите установщик от имени администратора
 3. Следуйте инструкциям мастера установки
 4. Ярлык приложения появится на рабочем столе и в меню "Пуск"
 
-1. Download `QRGeneratorInstaller.exe`
+**English:**
+1. Download `QRGeneratorInstaller.exe` from Releases section
 2. Run the installer as administrator
 3. Follow the installation wizard instructions
-4. The application shortcut will appear on the desktop and in the Start menu
+4. The application shortcut will appear on desktop and Start menu
 
-#### Windows (2 способ/2 method)
-- установите main.py
-- установите зависимости ( pip install qrcode[pil] pillow )
-- запустите код ( python qr_generator.py )
+### 🐍 Способ 2: Запуск из исходного кода / Method 2: Run from source code
 
-- install main.py
-- install dependencies ( pip install qrcode[pil] pillow )
-- run the code ( python qr_generator.py )
+**Русский:**
+```bash
+# Установите зависимости
+pip install qrcode[pil] pillow
+
+# Запустите приложение
+python main.py
+```
+
+**English:**
+```bash
+# Install dependencies
+pip install qrcode[pil] pillow
+
+# Run application
+python main.py
+```
+
+---
+
+## 👨‍💻 Разработчик / Developer
+
+**Иван Сергеев / Ivan Sergeev**
+
+- 💼 **GitHub:** [Ivan2812446](https://github.com/Ivan2812446)
+- 📝 **Telegram:** [@Ivans_Tech_Notes](https://t.me/Ivans_Tech_Notes)
+- 💰 **Kwork:** [Sergeev_Ivan](https://kwork.ru/user/Sergeev_Ivan)
+
+---
+
+## 🤝 Поддержка / Support
+
+**Русский:**  
+Нашли баг или есть предложение? Создайте issue в репозитории или напишите в Telegram.
+
+**English:**  
+Found a bug or have a suggestion? Create an issue in repository or write in Telegram.
+
+---
+
+## 📄 Лицензия / License
+
+Этот проект распространяется под лицензией MIT.  
+This project is licensed under MIT License.
+
+---
+
+<div align="center">
+
+**⭐ Если вам понравился проект, поставьте звезду на GitHub! / If you like this project, give it a star! ⭐**
+
+</div>
