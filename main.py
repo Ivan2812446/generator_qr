@@ -61,7 +61,7 @@ class QRCodeGenerator:
                 "menu_help": "Помощь",
                 "menu_about": "О программе",
                 "about_title": "О программе",
-                "about_text": "Генератор QR-кодов\n\nВерсия 2.0\n\nРазработчик: Ваше Имя\n\nЭто приложение позволяет создавать QR-коды для различных целей: текста, Wi-Fi, визиток, телефона и email."
+                "about_text": "Генератор QR-кодов\n\nВерсия 1.0\n\nРазработчик: Ванёк\n\nGitHub: https://github.com/Ivan2812446/generator_qr\n\nТелеграмм канал: t.me/Ivans_Tech_Notes\n\nЭто приложение позволяет создавать QR-коды для различных целей: текста, Wi-Fi, визиток, телефона и email."
             },
             "en": {
                 "title": "QR Code Generator",
@@ -109,7 +109,7 @@ class QRCodeGenerator:
                 "menu_help": "Help",
                 "menu_about": "About",
                 "about_title": "About",
-                "about_text": "QR Code Generator\n\nVersion 2.0\n\nDeveloper: Your Name\n\nThis application allows you to create QR codes for various purposes: text, Wi-Fi, business cards, phone, and email."
+                "about_text": "QR Code Generator\n\nVersion 1.0\n\nDeveloper: Vanek\n\nGitHub: https://github.com/Ivan2812446/generator_qr\n\nTelegram chanel: t.me/Ivans_Tech_Notes\n\nThis application allows you to create QR codes for various purposes: text, Wi-Fi, business cards, phone, and email."
             }
         }
         
