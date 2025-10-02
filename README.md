@@ -62,16 +62,13 @@
 ### 📥 Способ 1: Установщик (рекомендуется) / Method 1: Installer (recommended)
 
 **Русский:**
-1. Скачайте `QRGeneratorInstaller.exe` из раздела Releases
-2. Запустите установщик от имени администратора
-3. Следуйте инструкциям мастера установки
-4. Ярлык приложения появится на рабочем столе и в меню "Пуск"
+1. Скачайте `QRGenerator.exe` из раздела Releases
+2. Запустите приложение
 
 **English:**
-1. Download `QRGeneratorInstaller.exe` from Releases section
-2. Run the installer as administrator
-3. Follow the installation wizard instructions
-4. The application shortcut will appear on desktop and Start menu
+1. Download `QRGenerator.exe ` from the Releases section
+2. Launch the app
+
 
 ### 🐍 Способ 2: Запуск из исходного кода / Method 2: Run from source code
 
