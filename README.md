@@ -2,6 +2,10 @@
 Многофункциональное приложение для генерации QR-кодов с красивым графическим интерфейсом.
 A multifunctional QR code generator application with a beautiful graphical interface.
 
+Cоцсети автора:
+GitHub - Ivan2812446
+TG - t.me/Ivans_Tech_Notes
+Kwork - Sergeev_Ivan
 
 ## 🌟 Особенности / Features
 
