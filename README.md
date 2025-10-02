@@ -10,6 +10,7 @@ A multifunctional application for generating QR codes.
 - **💾 Сохранение** - Экспорт QR-кодов в PNG/JPEG
 - **👀 Предпросмотр** - Мгновенный просмотр результата
 
+
 - **📱 Multi-type generation** - Text, Wi-Fi, business cards, phone, email
 - **🎨 Customization** - Color settings, logo addition
 - **🌍 Language support** - Russian and English interface
