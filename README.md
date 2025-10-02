@@ -98,7 +98,7 @@ python main.py
 
 ## 👨‍💻 Разработчик / Developer
 
-**Иван Сергеев / Ivan Sergeev**
+**Ванёк / Vanek**
 
 - 💼 **GitHub:** [Ivan2812446](https://github.com/Ivan2812446)
 - 📝 **Telegram:** [Ivans_Tech_Notes](https://t.me/Ivans_Tech_Notes)
